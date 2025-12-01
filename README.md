@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Juhani Merilehto 👋
 
-<!--
-**juhanimerilehto/juhanimerilehto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**PhD Researcher -> AI Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current hobbies:**
+
+
+University of Vaasa | Administrative Science
+
+University of Turku | Master in Technology
+
+Repo contains some uploaded production-ready generative AI tools:
+
+- Finnish-language RAG systems
+- Local LLM inference (GPU + quantized GGUF)
+- Systematic literature reviews with GPT-4
+- Whisper + pyannote interview transcription
+- Automated statistical analysis suite (t-test, ANOVA, regressions, etc.)
+
+Actively applying for **AI Engineer / AI Researcher** roles in Finland  
+(Jyväskylä • Remote)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/juhanimerilehto) • [Google Scholar](https://scholar.google.com/citations?user=23A1DPMAAAAJ) • juhani.merilehto@uwasa.fi
+
+---
